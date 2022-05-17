@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nav Menu Project</title>
+    <style>
+        * {
+            margin: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /*--Header Styling--*/
+
+        header {
+            background-color: rgb(211, 218, 226);
+            text-align: center;
+        }
+
+        header img {
+            width: 250px;
+            transition: .4s; /*--Understand yhis--*/
+        }
+
+        /*--Nav Styling--*/
+        ul.menu {
+            list-style-type: none;
+            padding: 0;
+            background-color: #222;
+            overflow: hidden;
+        }
+
+        ul.menu li {
+            float: left;
+            width: 20%;
+            /*--This gives the space for nav--*/
+            border: 1px solid white;
+        }
+
+        ul.menu li a {
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            display: block;
+            padding: 15px;
+            font-size: 22px;
+        }
+
+        ul.menu li a.active,
+        ul.menu li a:hover {
+            background-color: #008BE2;
+            /*--To use The same background-color for acive class hover --*/
+        }
+
+        /*--HTML 5 Semantic Elemens--*/
+        figure {
+            width: 100%;
+            height: 350px;
+            background-color: #e46409;
+        }
+        main{
+            margin: 2px;
+        }
+        section{
+            width: 29.33%;
+            height: 300px;
+            background-color: #008BE2;
+            margin: 2%;
+            float: left;
+        }
+
+        article{
+            width: 57%;
+            height: 300px;
+            background-color: #e46409;
+            margin: 2%;
+            float: left;
+        }
+
+        aside{
+            width: 35%;
+            height: 300px;
+            background-color: #02e563;
+            margin: 2%;
+            float: left;
+        } 
+
+        footer {
+            width: 100%;
+            height: 400px;
+            background-color: #008BE2;
+            float: left;
+        }
+        @media screen and (max-width: 768px) {
+            header{
+                padding-bottom: 6px;
+            }
+            header img {
+                width: 220px;
+            }
+            ul.menu li {
+            width: 100%;
+            /*--This gives the space for nav--*/
+            border: 1px solid white;
+        }
+        ul.menu li a{
+            padding: 15px;
+            font-size: 20px;
+        }
+        section, article, aside {
+            width: 100%;
+            margin: 2% 0;
+        }
+    }
+    </style>
+</head>
+
+<body>
+    <header>
+        <img src="img/UOG_logo.png" style="width: 150px;" alt="">
+    </header>
+
+    <nav>
+        <ul class="menu">
+            <li><a class="active" href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#"> Testimonials</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <!----HTML Semantic Layout---->
+
+    <figure></figure>
+
+    <main>
+        
+        <section></section>
+        <section></section>
+        <section></section>
+
+        <article></article>
+
+        <aside></aside>
+
+        <footer></footer>
+
+    </main>
+    <h1>New</h1>
+</body>
+
+</html>
