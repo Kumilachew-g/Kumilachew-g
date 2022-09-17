@@ -161,7 +161,7 @@
 
 ## Commit Streak
 
-[![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumilachew-g&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+[![Kumilachew's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumilachew-g&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
 <details>
 	<summary><b>🧲 GitHub Graph</b></summary>
