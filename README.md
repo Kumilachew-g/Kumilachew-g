@@ -40,7 +40,7 @@
   </a>
 </p>
 <p>
-<h3>Front-End</h3>
+<h3>Frontend</h3>
 <p>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
