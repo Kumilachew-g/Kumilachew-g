@@ -124,9 +124,12 @@
   </a>
 </p>
 
----
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 
-<h3>Connect with me</h3>
+<h2> Connect with me 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <div style="margin-top:10px">
   <div>
@@ -136,18 +139,15 @@
     <a href="https://twitter.com/Getie_Haddis" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
-  </div>
-</div>
-<p>
-<h3>Reach me</h3>
-
-<p>
-  <a href="mailto:kumilachew1212@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+	   <a href="mailto:kumilachew1212@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-</p>
-
+  </div>
+</div>
 <br><br>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 
 # Github's Status
 
