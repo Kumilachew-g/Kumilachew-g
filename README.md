@@ -2,9 +2,15 @@
 
 <!-- # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
 
-### Hi there, **I'm Kumilachew Getie Tsega** 👋
+# Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-#### I'm a Front-End Developer
+<p align='center'>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=2de057&lines=I'm+Kumilachew;I'm+a+full+stack+developer;I+like+to+code;I+love+solving+problems;)](https://git.io/typing-svg)
+
+
+
+#### <h2>Facts about me:</h2>
 
 - 🌱 I’m currently learning at **Microverse**
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux**
@@ -15,9 +21,17 @@
 - ⚡ Fun fact: I love watching football.
 
 <br />
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 <h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/Kumilachew-g/count.svg" />
 <p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
+	
 <h2><u><b>Knowledge Base.</b></u></h2>
 
 <h3>Languages</h3>
@@ -40,6 +54,11 @@
   </a>
 </p>
 <p>
+	
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
+	
 <h3>Front-End</h3>
 <p>
       <a href="https://getbootstrap.com" target="_blank">
@@ -67,6 +86,11 @@
     <a href="https://rubyonrails.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
 </p>  -->
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
+
 <!-- <h3>Database</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank"> 
@@ -85,6 +109,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
   </a>
 </p> -->
+
 <p>
 <h3>Cloud & Hosting:</h3>
 <p>
@@ -96,6 +121,11 @@
       alt="heroku"/> 
   </a>  -->
 </p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
+
 <p>
 <h3>Version Control & CI/CD</h3>
 <p>
@@ -107,6 +137,11 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
+
 <p>
 <h3>Preferred IDEs & Tools :</h3>
 <p>
