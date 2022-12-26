@@ -78,20 +78,20 @@
   </a>
 </p>
 <p>
-<!-- <h3>Backend</h3>
+<h3>Backend</h3>
 <p>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> 
   </a>
     <a href="https://rubyonrails.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
-</p>  -->
+</p> 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-<!-- <h3>Database</h3>
+<h3>Database</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
@@ -108,7 +108,11 @@
       <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
   </a>
-</p> -->
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 
 <p>
 <h3>Cloud & Hosting:</h3>
