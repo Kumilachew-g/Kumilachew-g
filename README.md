@@ -120,10 +120,10 @@
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
-  <!-- <a href="https://heroku.com" target="_blank"> 
+  <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
-  </a>  -->
+  </a>
 </p>
 
 <p  align="center">
