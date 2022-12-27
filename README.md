@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning at **Microverse**
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux**
-- 🌱 I’m currently learning `HTML` `CSS3` `JavaScript` `React` `Redux`
+- 🌱 I have learned `HTML` `CSS3` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails`
 - 👯 I’m looking to collaborate on JavaScript, React and Redux projects.
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail kumilachew1212@gmail.com.
 - 🌱 Don't be shy to say Hi
