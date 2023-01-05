@@ -194,11 +194,9 @@
 </p>
 
 # Github's Status
+[![Kumilachew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumilachew-g&show_icons=true&theme=ayu-mirage)](https://github.com/Kumilachew-g)
 
-  <p align="center">
-   <a href="https://github.com/Kumilachew-g">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kumilachew-g&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumilachew-g&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumilachew-g&theme=ayu-mirage&layout=compact)](https://github.com/Kumilachew-g)
   </a>
 </p>
 </h3>
