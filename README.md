@@ -172,7 +172,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-<h2> Connect with me 
+<h2> Connect with me :
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <div style="margin-top:10px">
