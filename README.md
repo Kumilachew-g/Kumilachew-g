@@ -59,7 +59,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 	
-<h3>Front-End</h3>
+<h3>Front-End :</h3>
 <p>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -83,7 +83,7 @@
 </p>
 
 <p>
-<h3>Backend</h3>
+<h3>Backend :</h3>
 <p>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> 
@@ -96,7 +96,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-<h3>Database</h3>
+<h3>Database :</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
