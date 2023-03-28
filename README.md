@@ -136,7 +136,7 @@
 </p>
 
 <p>
-<h3>Version Control & CI/CD</h3>
+<h3>Version Control & CI/CD :</h3>
 <p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
