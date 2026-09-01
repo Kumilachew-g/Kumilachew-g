@@ -12,7 +12,7 @@
 
 #### <h2>Facts about me:</h2>
 
-- 🌱 I was learning at **Microverse**
+- 🌱 I learned at at **Microverse**
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux**
 - 🌱 I have learned `HTML` `CSS3` `JavaScript` `React` `Redux` `Ruby` `Ruby on Rails`
 - 👯 I’m looking to collaborate on JavaScript, React and Redux, Ruby and Ruby on rails projects.
