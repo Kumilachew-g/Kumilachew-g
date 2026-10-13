@@ -8,12 +8,15 @@
   </p>
 
   <p>
-    <a href="https://github.com/Kumilachew-g">
-      <img src="https://komarev.com/ghpvc/?username=Kumilachew-g&style=for-the-badge&color=2de057" alt="Profile views" />
+    <a href="https://github.com/antonkomarev/github-profile-views-counter#why-does-the-counter-increase-every-time-the-page-is-reloaded">
+      <img src="https://komarev.com/ghpvc/?username=Kumilachew-g&style=for-the-badge&color=2de057&label=Profile+hits+%28all+visits%29" alt="Profile hits (all visits)" />
     </a>
     <a href="mailto:kumilachew1212@gmail.com">
       <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+  </p>
+  <p>
+    <sub>GitHub proxies README image requests, so badge-based counters cannot reliably exclude the profile owner's own views.</sub>
   </p>
 </div>
 
