@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://github.com/Kumilachew-g">
-      <img src="https://komarev.com/ghpvc/?username=Kumilachew-g&style=for-the-badge&color=2de057" alt="Profile views" />
+      <img src="https://hits.sh/github.com/Kumilachew-g/Kumilachew-g.svg?style=for-the-badge&label=Profile%20views&extraCount=0&color=2de057" alt="Profile views" />
     </a>
     <a href="mailto:kumilachew1212@gmail.com">
       <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
