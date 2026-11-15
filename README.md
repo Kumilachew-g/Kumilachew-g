@@ -20,9 +20,9 @@
 ## 👨‍💻 About me
 
 - 🎓 Trained at **Microverse** through project-based, team-driven learning.
-- 🔭 Working primarily with **JavaScript, React, Redux, Ruby,Node JS, and Ruby on Rails**.
+- 🔭 Working primarily with **JavaScript, React, Redux, Ruby, Node JS, and Ruby on Rails**.
 - 🌱 Continuously expanding into **full-stack architecture, API design, and modern frontend workflows**.
-- 🤝 Open to collaborating on meaningful **JavaScript, React, Ruby, Rails,Node JS, and full-stack web apps**.
+- 🤝 Open to collaborating on meaningful **JavaScript, React, Ruby, Rails, Node JS, and full-stack web apps**.
 - 💼 Available for interesting opportunities and freelance or contract work.
 - ⚡ Fun fact: I enjoy watching football matches.
 
