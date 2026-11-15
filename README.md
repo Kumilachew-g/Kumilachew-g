@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="Waving hand" />
   <h1>Hi, I'm Kumilachew Getie 👋</h1>
-  <h3>Full-Stack Developer | JavaScript, React, Ruby on Rails</h3>
+  <h3>Full-Stack Developer | JavaScript, React,Node js, Ruby on Rails</h3>
 
   <p>
     I build clean, scalable, and user-focused web applications with strong attention to accessibility, UI/UX, and maintainability.
